@@ -27,7 +27,7 @@ export default function Home() {
         </div>
 
         <div className={styles.grid}>
-          <p>i am ready to learn you😅😅😅😅❤️❤️❤️</p>
+          <p>😅i am ready to learn you😅😅😅❤️❤️❤️</p>
         </div>
       </main>
     </>
